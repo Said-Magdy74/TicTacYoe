@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="login">S\'identifier</string>
+    <string name="enter_your_email">Entrez votre adresse e-mail</string>
+    <string name="enter_your_password">Entrez le mot de passe</string>
+    <string name="create_new_email">Créer un nouveau compte</string>
+    <string name="sign_up">S’enregistrer</string>
+    <string name="enter_your_new_email">Entrez une nouvelle adresse e-mail</string>
+    <string name="re_enter_your_password">Entrez à nouveau votre mot de passe</string>
+    <string name="with_ai">Avec ordinateur</string>
+    <string name="with_friend">Avec un ami</string>
+    <string name="enter_players_names">Entrez votre gamertag</string>
+    <string name="enter_player_one_name">Entrez le nom du premier joueur</string>
+    <string name="enter_player_two_name">Entrez le nom du deuxième joueur</string>
+    <string name="start_game">Commencez à jouer</string>
+    <string name="player_one">Premier joueur</string>
+    <string name="player_two">Deuxième joueur</string>
+    <string name="player_name">Nom du joueur</string>
+    <string name="background_music">Musique de fond</string>
+    <string name="sound_effects">Effets sonores</string>
+    <string name="please_enter_email">Entrez votre adresse e-mail</string>
+    <string name="password_field_is_empty">Entrez le mot de passe</string>
+    <string name="passwords_do_not_match">Le mot de passe ne correspond pas</string>
+    <string name="account_created_successfully">Compte créé avec succès</string>
+    <string name="this_email_already_has_an_account">Ce compte existe déjà</string>
+    <string name="please_enter_your_email">Entrez votre adresse e-mail</string>
+    <string name="please_enter_your_password">Entrez le mot de passe</string>
+    <string name="your_data_are_not_found">Ces données n’existent pas</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="login">Oturum aç</string>
+    <string name="enter_your_email">E-postanızı girin</string>
+    <string name="enter_your_password">Şifre Girin</string>
+    <string name="create_new_email">Yeni bir hesap oluştur</string>
+    <string name="sign_up">Kaydol</string>
+    <string name="enter_your_new_email">Yeni bir e-posta girin</string>
+    <string name="re_enter_your_password">Şifrenizi tekrar girin</string>
+    <string name="with_ai">Bilgisayarla</string>
+    <string name="with_friend">Bir arkadaşıyla</string>
+    <string name="enter_players_names">Oyuncu etiketinizi girin</string>
+    <string name="enter_player_one_name">İlk oyuncunun adını girin</string>
+    <string name="enter_player_two_name">İkinci oyuncunun adını girin</string>
+    <string name="start_game">Oynamaya başla</string>
+    <string name="player_one">İlk Oyuncu</string>
+    <string name="player_two">İkinci Oyuncu</string>
+    <string name="player_name">Oyuncu Adı</string>
+    <string name="background_music">Arka plan müziği</string>
+    <string name="sound_effects">Ses efektleri</string>
+    <string name="please_enter_email">E-postanızı girin</string>
+    <string name="password_field_is_empty">Şifre Girin</string>
+    <string name="passwords_do_not_match">Şifre eşleşmiyor</string>
+    <string name="account_created_successfully">Hesap başarıyla oluşturuldu</string>
+    <string name="this_email_already_has_an_account">Bu hesap zaten var</string>
+    <string name="please_enter_your_email">E-postanızı girin</string>
+    <string name="please_enter_your_password">Şifre Girin</string>
+    <string name="your_data_are_not_found">Bu veri mevcut değil</string>
+</resources>

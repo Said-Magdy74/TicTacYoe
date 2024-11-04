@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="login">Login</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="create_new_email">Create New Email !</string>
+    <string name="sign_up">Sign up</string>
+    <string name="enter_your_new_email">Enter Your new Email</string>
+    <string name="re_enter_your_password">Re-enter your password</string>
+    <string name="with_ai">With AI</string>
+    <string name="with_friend">With friend</string>
+    <string name="enter_players_names">ENTER PLAYERS NAMES</string>
+    <string name="enter_player_one_name">Enter player one name</string>
+    <string name="enter_player_two_name">Enter player two name</string>
+    <string name="start_game">Start Game</string>
+    <string name="player_one">Player One</string>
+    <string name="player_two">Player Two</string>
+    <string name="player_name">player_name</string>
+    <string name="background_music">Background_Music</string>
+    <string name="sound_effects">Sound_Effects</string>
+    <string name="please_enter_email">Please enter Email</string>
+    <string name="password_field_is_empty">Please enter Password</string>
+    <string name="passwords_do_not_match">Passwords do not match</string>
+    <string name="account_created_successfully">Account created successfully</string>
+    <string name="this_email_already_has_an_account">This email already has an account.</string>
+    <string name="please_enter_your_email">Please enter your email</string>
+    <string name="please_enter_your_password">Please enter your password</string>
+    <string name="your_data_are_not_found">your data are not found</string>
+</resources>

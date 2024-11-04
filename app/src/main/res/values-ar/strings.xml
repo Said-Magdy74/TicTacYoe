@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="enter_your_email">أدخل بريدك الالكتروني</string>
+    <string name="enter_your_password">ادخل كلمة السر</string>
+    <string name="create_new_email">إنشاء حساب جديد</string>
+    <string name="sign_up">التسجيل</string>
+    <string name="enter_your_new_email">أدخل بريد الكتروني جديد</string>
+    <string name="re_enter_your_password">أعد إدخال كلمة السر</string>
+    <string name="with_ai">مع الكمبيوتر</string>
+    <string name="with_friend">مع صديق</string>
+    <string name="enter_players_names">أدخل أسماء اللاعبين</string>
+    <string name="enter_player_one_name">أدخل اسم اللاعب الاول</string>
+    <string name="enter_player_two_name">أدخل اسم اللاعب الثاني</string>
+    <string name="start_game">إبدأ اللعب</string>
+    <string name="player_one">اللاعب الاول</string>
+    <string name="player_two">اللاعب الثاني</string>
+    <string name="player_name">اسم اللاعب</string>
+    <string name="background_music">موسيقى الخلفية</string>
+    <string name="sound_effects">المؤثرات الصوتيه</string>
+    <string name="please_enter_email">أدخل بريدك الالكتروني</string>
+    <string name="password_field_is_empty">أدخل كلمة السر</string>
+    <string name="passwords_do_not_match">كلمة السر غير متطابقة</string>
+    <string name="account_created_successfully">تم إنشاء الحساب بنجاح</string>
+    <string name="this_email_already_has_an_account">هذا الحساب موجود بالفعل</string>
+    <string name="please_enter_your_email">أدخل بريدك الالكتروني</string>
+    <string name="please_enter_your_password">أدخل كلمة السر</string>
+    <string name="your_data_are_not_found">هذه البيانات غير موجودة</string>
+</resources>

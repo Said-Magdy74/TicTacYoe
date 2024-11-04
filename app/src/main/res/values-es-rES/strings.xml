@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">Inicia sesión</string>
+    <string name="enter_your_email">Ingresa tu correo electrónico</string>
+    <string name="enter_your_password">Introduzca la contraseña</string>
+    <string name="create_new_email">Únete</string>
+    <string name="sign_up">Ingresa un nuevo correo electrónico</string>
+    <string name="enter_your_new_email">Ingresa un nuevo correo electrónico</string>
+    <string name="re_enter_your_password">Vuelva a ingresar su contraseña</string>
+    <string name="with_ai">Con ordenador</string>
+    <string name="with_friend">Con un amigo</string>
+    <string name="enter_players_names">Ingresa tu gamertag</string>
+    <string name="enter_player_one_name">Ingresa el nombre del primer jugador</string>
+    <string name="enter_player_two_name">Ingresa el nombre del segundo jugador</string>
+    <string name="start_game">Empieza a jugar</string>
+    <string name="player_one">Primer jugador</string>
+    <string name="player_two">Segundo jugador</string>
+    <string name="player_name">Nombre del jugador</string>
+    <string name="background_music">Música de fondo</string>
+    <string name="sound_effects">Efectos de sonido</string>
+    <string name="please_enter_email">Ingresa tu correo electrónico</string>
+    <string name="password_field_is_empty">Introduzca la contraseña</string>
+    <string name="passwords_do_not_match">La contraseña no coincide</string>
+    <string name="account_created_successfully">Cuenta creada con éxito</string>
+    <string name="this_email_already_has_an_account">Esta cuenta ya existe</string>
+    <string name="please_enter_your_email">Ingresa tu correo electrónico</string>
+    <string name="please_enter_your_password">Introduzca la contraseña</string>
+    <string name="your_data_are_not_found">Estos datos no existen</string>
+</resources>
